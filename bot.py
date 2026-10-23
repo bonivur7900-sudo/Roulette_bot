@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # Инициализация бота (укажите ваш токен от BotFather)
-bot = telebot.TeleBot("8632892655:AAHFlzgOEDQiozMY8gBOqL1Mcqab1dSS0tk
+bot = telebot.TeleBot("8632892655:AAHFlzgOEDQiozMY8gBOqL1Mcqab1dSS0tk")
 
 # Начальный баланс по умолчанию
 bankroll = 300.0
