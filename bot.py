@@ -82,4 +82,5 @@ def check_balance(message):
         f"💰 Текущий единый банкролл: **${bankroll:.2f}**",
         reply_markup=get_main_keyboard(),
         parse_mode="Markdown"
-    )
+                    )
+    
